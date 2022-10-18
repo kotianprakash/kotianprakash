@@ -51,7 +51,6 @@ I believe in learning and not giving up easily. Playing with data and analysing 
 ## Github Stats
 ![prakash GitHub stats](https://github-readme-stats.vercel.app/api?username=kotianprakash&show_icons=true&theme=radical)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotianprakash&layout=compact)](https://github.com/kotianprakash/github-readme-stats)
 
 <p align="center">
  <img src=https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header">
