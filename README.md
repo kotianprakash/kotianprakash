@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-kotian-6ba1b5171/)
+<h2><a href="https://kotianprakash.github.io/Portfolio-website/">LINK TO MY PORTFOLIO WEBSITE</a></h2>	
 
 
 ## “One learns from books and example only that certain things can be done. Actual learning requires that you do those things.– Frank Herbert” 
